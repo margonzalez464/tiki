@@ -1,0 +1,93 @@
+body{
+    height: fit-content; width: fit-content; background: rgb(199, 236, 178);
+}
+.word{
+    -webkit-border-radius: 50px;
+border-radius: 50px; padding: 100px;
+background: #6bdd7e;
+-webkit-box-shadow: 18px 18px 28px #283556, -18px -18px 28px #90bbff;
+box-shadow: 18px 18px 28px #283556, -18px -18px 28px #0c1016;
+font-family: monospace; font-size: 34pt; font-weight: 300; text-align: center;
+position: relative;
+left: 600px; bottom: 30px;
+}
+.dood{
+    -webkit-border-radius: 50px;
+border-radius: 50px; padding: 100px;
+background: #277BC0;
+-webkit-box-shadow: 18px 18px 28px #283556, -18px -18px 28px #90bbff;
+box-shadow: 18px 18px 28px #000000, -18px -18px 28px #263142;
+font-family: monospace; font-size: 32pt; font-weight: 200;
+position: relative;
+left: 600px; bottom: 30px; text-align: center;
+}
+.top{
+    -webkit-border-radius: 50px;
+padding: 100px;
+background: #FFB200;
+-webkit-box-shadow: 18px 18px 28px #283556, -18px -18px 28px #90bbff;
+box-shadow: 18px 18px 28px #283556, -18px -18px 28px #000000;
+font-family: monospace; font-size: 32pt; font-weight: 200;
+position: relative;
+left: 600px; bottom: 30px; text-align: center;
+}
+.frack{
+    -webkit-border-radius: 50px;
+padding: 100px;
+background: #FFCB42;
+-webkit-box-shadow: 18px 18px 28px #283556, -18px -18px 28px #90bbff;
+box-shadow: 18px 18px 28px #283556, -18px -18px 28px #000000;
+font-family: monospace; font-size: 32pt; font-weight: 200;
+position: relative;
+left: 600px; bottom: 30px; text-align: center;
+}
+.Trust{
+    -webkit-border-radius: 50px;
+padding: 100px;
+background: #FFF4CF;
+-webkit-box-shadow: 18px 18px 28px #283556, -18px -18px 28px #90bbff;
+box-shadow: 18px 18px 28px #283556, -18px -18px 28px #000000;
+font-family: monospace; font-size: 32pt; font-weight: 200; 
+position: relative;
+left: 600px; bottom: 30px; text-align: center;
+}
+.tiki{
+    padding: 20px;
+    border-radius:100px;
+    box-shadow: #263142 10px 10px;
+    width: 160px; height: 160px;
+    position: relative;
+    left: 300px; bottom: 1300px;
+}
+.tiki1{
+    box-shadow: #263142 10px 10px;
+    padding: 20px;
+    border-radius:100px;
+    width: 160px; height: 160px;
+    position: relative;
+    left: 100px; bottom: 900px;
+}
+.tiki2{
+    box-shadow: #263142 10px 10px;
+    padding: 20px;
+    border-radius: 100px;
+    width: 160px; height: 160px;
+    position: relative;
+    right: 110px; bottom: 500px;
+}
+.gb{
+    position: relative;
+    left: 1400px; bottom: 1500px;
+    box-shadow:#27241c 10px 10px 10px;
+}
+.gif{
+    width: 160px; height: 160px;
+    position: relative;
+    left: 1550px; bottom: 1300px;
+    box-shadow: #263142 10px 10px 10px;
+}
+.text{
+    position: relative;
+    left: 1580px; bottom: 1300px;
+    font-family: monospace; font-size: 12pt; font-weight: 900;
+}
